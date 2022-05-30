@@ -1,0 +1,20 @@
+
+.logo{
+	width: 100px;
+}
+
+.info{
+	margin: 20px 0 0 20px;
+}
+.pagination{
+	display: inline-block;
+}
+.pagination p{
+	float: left;
+	padding: 5px 10px;
+	text-decoration: none;
+	border: 1px solid #ddd;
+}
+.selectedPage{
+	font-weight: bold;
+}

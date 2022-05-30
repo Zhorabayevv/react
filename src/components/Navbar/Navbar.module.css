@@ -1,0 +1,30 @@
+a {
+	text-decoration: none;
+	color: #fff;
+}
+.nav {
+	grid-area: nav;
+	background-color: rgb(228, 21, 21);
+	padding: 20px;
+}
+.nav a {
+	margin-top: 20px;
+}
+
+.item a:hover {
+	color: gold;
+}
+.item a.active {
+	color: gold;
+}
+
+.settings {
+	padding-top: 20px;
+}
+.settings a:active {
+	color: gold;
+}
+.settings a:hover {
+	color: gold;
+}
+

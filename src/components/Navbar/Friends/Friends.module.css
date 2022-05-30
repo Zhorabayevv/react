@@ -1,0 +1,20 @@
+.friendDiv {
+	padding-top: 40px;
+	color: #fff;
+	font-size: 24px;
+}
+.friends {
+	padding-top: 20px;
+	display: flex;
+	justify-content: space-between;
+}
+.friend {
+	font-size: medium;
+}
+.friends img {
+	width: 50px;
+	border-radius: 25px;
+}
+.friends p {
+	text-align: center;
+}
